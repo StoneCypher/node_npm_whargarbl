@@ -1,0 +1,25 @@
+{
+  "name": "node_npm_whargarbl",
+  "version": "1.0.0",
+  "description": "A trivial module with a single function which returns the string 'whargarbl'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StoneCypher/node_npm_whargarbl.git"
+  },
+  "keywords": [
+    "testing",
+    "stub",
+    "whargarbl",
+    "stonecypher"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/node_npm_whargarbl/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/node_npm_whargarbl"
+}
